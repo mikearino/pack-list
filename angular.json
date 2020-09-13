@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pack-list"
+    }
+  },
+  "defaultProject": "pack-list",
+  "cli": {
+    "analytics": false
+  }
 }
